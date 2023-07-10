@@ -39,6 +39,7 @@ body{
     object-fit: cover;
     position: fixed;
     opacity: 0.5;
+    z-index: -100;
 }
 /*.//wrap>video*/
 
